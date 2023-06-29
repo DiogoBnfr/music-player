@@ -5,7 +5,7 @@ VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{C08977D7-E781-4471-A832-B00189DBAD69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileHandler", "FileHandler\FileHandler.csproj", "{68F73D7C-252C-4D16-A422-53C777D96E26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlerDB", "FileHandler\HandlerDB.csproj", "{68F73D7C-252C-4D16-A422-53C777D96E26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

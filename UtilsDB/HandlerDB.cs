@@ -1,4 +1,4 @@
-﻿namespace FileHandler
+﻿namespace UtilsDB
 {
     internal class Program
     {
